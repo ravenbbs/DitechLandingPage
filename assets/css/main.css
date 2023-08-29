@@ -884,9 +884,11 @@ section {
 }
 
  .info-item {
-  width: auto;
-  max-width: 300px;
-  background-color: #000000;
+  width: 30%;
+  min-width: 300px;
+  margin: 0 12px;
+  height: 120px;
+  background-color: #009292;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
