@@ -980,7 +980,7 @@ section {
 /*Estilos generales del boton whatsapp*/
 .whatsapp-btn {
   position: fixed;
-  bottom: 60px;
+  bottom: 20px;
   right: 20px;
   z-index: 9999;
   width: 60px;
