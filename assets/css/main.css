@@ -508,7 +508,7 @@ section {
 }
 
 .clients .swiper-slide img:hover {
-  transform: scale(1.1);
+  transform: scale(1.005);
 }
 
 .clients .swiper-pagination {
